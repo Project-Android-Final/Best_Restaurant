@@ -1,7 +1,7 @@
 # Best_Restaurant
-## Flix
+## 
 Best restaurant is an app that allows users to order online and get oppotunity to someone to sell the products and interaction each other.
-## Flix Part 1
+## 
 
 #### USER  STORIES
 - [x]  User can download his app from play store
@@ -14,5 +14,5 @@ Best restaurant is an app that allows users to order online and get oppotunity t
 
 ### App Walkthough GIF
 
-<img src="https://github.com/sander1999/Flixster1/blob/main/Flixster1.gif" width=250><br>
+<img src="" width=250><br>
 
