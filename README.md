@@ -4,8 +4,8 @@ Best restaurant is an app that allows users to order online and get oppotunity t
 ## 
 
 #### USER  STORIES
-   - []  User can download his app from play store
-   - [] User can create account
+   - [ ]  User can download his app from play store
+   - [ ] User can create account
    - [ ] User can login
    - [ ] User can reset password if he forgot it
    - [ ] User can see the menu of day 
