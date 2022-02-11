@@ -22,7 +22,7 @@ Best restaurant is an app that allows users to order online and get oppotunity t
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [09/03/2021] [Oland and Dimy of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
