@@ -12,8 +12,8 @@ Best restaurant is an app that allows users to order online and get oppotunity t
    - [x] User can location of place  the restaurantis there
 
 
-### App Walkthough GIF
 
-<img src="" width=250><br>
+### WireFrame
 <img src="https://i.imgur.com/VTQEj6S.png" width=550><br>
 
+### App Walkthough GIF
